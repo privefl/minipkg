@@ -1,0 +1,14 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(Matrix)
+mat <- rsparsematrix(10, 10, 0.1)
+t(mat)
+```
+

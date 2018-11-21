@@ -4,12 +4,12 @@
 \name{minipkg-package}
 \alias{minipkg}
 \alias{minipkg-package}
-\title{minipkg: What the Package Does (One Line, Title Case)}
+\title{minipkg: Mini Package for Reproducible Examples}
 \description{
 What the package does (one paragraph).
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Florian Privé \email{florian.prive.21@gmail.com}
 
 }
 \keyword{internal}
