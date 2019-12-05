@@ -2,3 +2,5 @@
 
 export(my_render)
 export(my_render2)
+export(myfunpar)
+import(foreach)
