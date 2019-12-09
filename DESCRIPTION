@@ -16,4 +16,4 @@ Imports:
     parallel,
     rmarkdown,
     doParallel,
-    foreach
+    foreach (<= 1.4.4)
