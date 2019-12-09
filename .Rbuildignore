@@ -1,3 +1,4 @@
 ^inst/extdata/Matrix\.html$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^\.github$
