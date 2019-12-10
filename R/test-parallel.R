@@ -15,6 +15,7 @@ myfun <- function(x) x * x
 #' @import foreach
 #'
 #' @examples
+#' Sys.getenv()
 #' myfunpar(1:3, 2)
 myfunpar <- function(x, ncores) {
 

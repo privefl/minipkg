@@ -18,5 +18,6 @@ The \code{x} vector, squared.
 Use foreach
 }
 \examples{
+Sys.getenv()
 myfunpar(1:3, 2)
 }
